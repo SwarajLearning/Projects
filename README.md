@@ -1,7 +1,7 @@
 Project Name: **UserManager**
 
-**User Manager** is an **Android** project that demonstrates basic **CRUD operations (Create, Read, Update, Delete)**.<br />
-The application is built using the **MVVM (Model-View-ViewModel)** architecture and **Data Binding** for seamless UI interaction.<br />
+**User Manager** is an **Android** project that demonstrates basic **CRUD operations (Create, Read, Update, Delete)**. <br />
+The application is built using the **MVVM (Model-View-ViewModel)** architecture and **Data Binding** for seamless UI interaction. <br />
 Data persistence is handled using the **Room Database**, which provides an abstraction layer over **SQLite**.
 
 
