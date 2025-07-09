@@ -1,4 +1,4 @@
-Project Name: **UserManager**
+Project Name: **User Manager**
 
 **User Manager** is an **Android** project that demonstrates basic **CRUD operations (Create, Read, Update, Delete)**. <br />
 The application is built using the **MVVM (Model-View-ViewModel)** architecture and **Data Binding** for seamless UI interaction. <br />
