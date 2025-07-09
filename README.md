@@ -9,11 +9,8 @@ Data persistence is handled using the **Room Database**, which provides an abstr
 **Features**
 
 Add, update, delete, and view users.
-
 Real-time UI updates with **DataBinding**.
-
 Data storage using **Room Database**.
-
 **MVVM architecture** for clear separation of concerns.
 
 
@@ -21,9 +18,7 @@ Data storage using **Room Database**.
 **Tech Stack**
 
 Kotlin.
-
 Android Jetpack: ViewModel, StateFlow, Room.
-
 Databinding.
 
 
