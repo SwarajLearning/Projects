@@ -8,9 +8,9 @@ Data persistence is handled using the **Room Database**, which provides an abstr
 
 **Features**
 
-Add, update, delete, and view users.
-Real-time UI updates with **DataBinding**.
-Data storage using **Room Database**.
+Add, update, delete, and view users.<br />
+Real-time UI updates with **DataBinding**. <br />
+Data storage using **Room Database**. <br />
 **MVVM architecture** for clear separation of concerns.
 
 
