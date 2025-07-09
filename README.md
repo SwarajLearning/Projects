@@ -15,4 +15,5 @@ Kotlin.
 Android Jetpack: ViewModel, StateFlow, Room.
 Databinding.
 
-![image](https://github.com/user-attachments/assets/492a5cef-e624-47bc-aebc-76c47a83891b)
+**Screenshot**
+![image](https://github.com/user-attachments/assets/b0bac567-fc85-441d-a205-2e9dd738f383)
