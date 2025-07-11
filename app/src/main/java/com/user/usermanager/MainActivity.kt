@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
             // Set up the RecyclerView with the userList from the ViewModel
             rvList.layoutManager = LinearLayoutManager(this@MainActivity)
 
-            // Observe the userList from the ViewModel and update the RecyclerView adapter
+            // Observe the lifecycle of the activity and collect the userList flow
             lifecycleScope.launch {
 
                 // Repeat the block when the lifecycle is in STARTED state
